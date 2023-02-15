@@ -50,7 +50,7 @@
   <img src="http://s1.iconbird.com/ico/2013/9/446/w512h5121380376600FlurryYouTube.png" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://zeplin.io/static/favicon-256x256.png" title="Zeplin" alt="Zeplin" width="40" height="40"/>&nbsp;
   <img src="https://cdn.coursehunter.net/category/sketch.png" title="Sketch" alt="Sketch" width="40" height="40"/>&nbsp;
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGRqcmd3dy04NDZjZTQyOS0zYjBkLTRhZDgtYmY2ZC1hYzUyZGZlNDgyMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G0SE64OMLNEGI8vXb21JRl13RMfER1VP8Kh2Ig3oJaQ" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/480/visual-studio-code-2019.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
 ---
