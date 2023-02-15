@@ -50,7 +50,7 @@
   <img src="http://s1.iconbird.com/ico/2013/9/446/w512h5121380376600FlurryYouTube.png" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://zeplin.io/static/favicon-256x256.png" title="Zeplin" alt="Zeplin" width="40" height="40"/>&nbsp;
   <img src="https://cdn.coursehunter.net/category/sketch.png" title="Sketch" alt="Sketch" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/362/1/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189955.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
 ---
