@@ -1,5 +1,5 @@
 
-# Hello, my name is Vlad! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" width="100%">
+<img src="https://i.gifer.com/NvN.gif" width="100%">
 
 ---
 
