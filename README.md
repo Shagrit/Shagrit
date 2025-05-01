@@ -3,7 +3,9 @@
 
 ---
 
-<div align="center">### 🤝 Social media:</div>
+<div align="center">
+  <p width="20px">### 🤝 Social media:</p>
+</div>
 
   <div align="center" id="badges">
     <a href="https://t.me/Shagrit" target="_blank">
