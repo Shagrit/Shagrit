@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <p width="20px">### 🤝 Social media:</p>
+  <p width="20px">🤝 Social media:</p>
 </div>
 
   <div align="center" id="badges">
