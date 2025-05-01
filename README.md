@@ -1,6 +1,6 @@
 
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%">
-<h1 align="center">Hi <C𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Vlad :)</h1>
+<h1 align="center">Hi <C𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Kartikay :)</h1>
 
 <div align="center">
   <p width="20px">🤝 Social media:</p>
